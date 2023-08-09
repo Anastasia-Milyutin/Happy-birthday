@@ -18,3 +18,8 @@ pre{
     font-size: 20px;
     font-weight: 900;
 }
+@media (min-width: 768px) {
+    .conteiner{
+        padding-top: 25%;
+    } 
+}
