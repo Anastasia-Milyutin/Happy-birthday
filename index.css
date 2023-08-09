@@ -4,22 +4,27 @@ body{
     
 }
 .conteiner{
+
+}
+.conteiner-centr{
     background-color: rgb(255, 218, 234);
     text-align: center;
     display: block;
     margin: 0 auto;
-    width: 560px;
-    height: 600px;
+    width: 700px;
+    height: 650px;
+    border-radius: 20px;
+
 }
 h1{
-    font-size: 40px;
+    font-size: 50px;
 }
 pre{
-    font-size: 20px;
+    font-size: 40px;
     font-weight: 900;
 }
 @media (min-width: 768px) {
     .conteiner{
-        margin-top: 45%;
+        margin-top: 50%;
     } 
 }
